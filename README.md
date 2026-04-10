@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://picsum.photos/seed/painite-pay/1200/400" alt="Painite Pay Banner" width="100%" />
+</p>
+
 # Painite Pay
 ### Seamless crypto payment links powered by Arc
 
@@ -32,7 +36,7 @@ Painite Pay solves this by abstracting the complexity into a single, shareable l
 - **Tailwind CSS**: For a responsive and beautiful design system.
 
 ## Live Demo
-Check out the live application here: [painite-pay.vercel.app](https://painite-pay.vercel.app)
+Check out the live application here: [painite-pay-xeyb.vercel.app](https://painite-pay-xeyb.vercel.app/)
 
 ## Getting Started
 To run Painite Pay locally:
