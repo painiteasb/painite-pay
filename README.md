@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://picsum.photos/seed/painite-pay/1200/400" alt="Painite Pay Banner" width="100%" />
+  <img src="./banner.svg" alt="Painite Pay Banner" width="100%" />
 </p>
 
 # Painite Pay
